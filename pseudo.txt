@@ -1,0 +1,56 @@
+start 
+
+ask user to input a positive number 
+	store input into variable called "numbers"
+	request input until user enters zero 
+		print out "biggest number"
+		and print out highest integer 
+stop 		
+
+
+start 
+		
+request user's name 
+	store input into variable called "first_name"
+	if input name is equal to "first_name" 
+		print "Hello, World"
+stop 		
+
+
+start 
+		
+read integers presented "10, 40, 50, 60"
+	add all integers 
+calculate average by dividing the total sum by 4 
+print average 
+
+stop 
+
+
+start 
+
+create a list called "grocery list"
+create a list called "bought items"
+	enter grocery items 
+	if item is not equal to done 
+		add item to bought items 	
+	if item is equal to done add to grocery list 
+set to items left to grocery list
+	sort items left alphabetically 
+	print items left 
+
+stop 	
+	
+	
+Start 
+	read x,y, 
+	S = X + Y 
+		display "S"
+	A = S/2 
+		display "A"
+	P = X * Y 
+		display "P"
+Stop 
+	
+			
+	
